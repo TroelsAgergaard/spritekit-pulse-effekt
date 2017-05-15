@@ -1,5 +1,5 @@
-# SpriteKit-Pulse-Effekt
-Pulse effect with small pause after three pulse
+# spritekit-pulse-effekt
+pulse effect for SKLabelNode
 
 Language: Swift 3
 
