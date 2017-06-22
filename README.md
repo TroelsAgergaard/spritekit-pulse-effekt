@@ -1,5 +1,5 @@
 # spritekit-pulse-effekt
-pulse effect for SKLabelNode
+pulse effect to use on SKLabelNode
 
 Language: Swift 3
 
